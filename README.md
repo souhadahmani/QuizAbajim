@@ -1,66 +1,26 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# AI-Powered Quiz Module
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## 📌 Description
+This project is an intelligent quiz system that generates questions automatically from PDF content and provides personalized feedback to students.
 
-## About Laravel
+## 🚀 Features
+- Automatic quiz generation using AI
+- Student performance tracking
+- Personalized feedback system
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🛠 Technologies
+- PHP (Laravel)
+- MySQL
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 📷 Screenshots
+<img width="1897" height="908" alt="Capture d&#39;écran 2025-06-05 160841" src="https://github.com/user-attachments/assets/7d118b9d-de64-4d5d-a50c-3b220289daaf" />
+<img width="1919" height="906" alt="Capture d&#39;écran 2025-05-28 162135" src="https://github.com/user-attachments/assets/9032763b-0faa-441e-a14c-cdb2e1825044" />
+<img width="1898" height="910" alt="Capture d&#39;écran 2025-05-27 194036" src="https://github.com/user-attachments/assets/3f18f277-b0fa-4149-b3eb-bd1749e8545b" />
+<img width="1919" height="908" alt="Capture d&#39;écran 2025-05-14 175959" src="https://github.com/user-attachments/assets/42ad287d-66f7-4aa9-a4e7-d3bf48fadd91" />
+<img width="457" height="434" alt="Capture d&#39;écran 2025-05-05 215004" src="https://github.com/user-attachments/assets/ad89a0e4-4f87-4e69-8e17-62ea4bd246dc" />
+<img width="1895" height="901" alt="I1" src="https://github.com/user-attachments/assets/ec8d121c-1553-4f69-b5b9-4bdf089fc587" />
+<img width="920" height="774" alt="question2" src="https://github.com/user-attachments/assets/eb35be4f-ff4f-4b99-a199-40f9bf0dc4b3" />
+<img width="1870" height="909" alt="auth" src="https://github.com/user-attachments/assets/91df7705-fd8d-4e37-a2fc-d946b0fae1e3" />
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## 🎯 Goal
+To improve learning experience using AI-driven adaptive quizzes.
